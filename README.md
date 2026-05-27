@@ -3,11 +3,9 @@
 
 
 ---
+[效果图](https://github.com/promoskhjpu-boop/Auto_aim/blob/main/pic1.png)
 
-
-[效果图](https://github.com/promoskhjpu-boop/Auto_aim/blob/main/pic2%20(1).png)
-
-[效果图](https://github.com/promoskhjpu-boop/Auto_aim/blob/main/pic2%20(2).png)
+[效果图](https://github.com/promoskhjpu-boop/Auto_aim/blob/main/pic2.png)
 
 ## 核心思路
 
